@@ -1,4 +1,4 @@
-# Tableau Analysis- Diabetic Dataset
+# Tableau Analysis - Diabetic Dataset
 This project contains a tableau storyboard. It is an analysis of a data set taken from kaggle.
 ## Tableau - Diabetic Analysis
 The dataset represents 10 years (1999-2008) of diabetic clinical care at 130 US hospitals and integrated delivery networks. It includes over 50 features representing patient and hospital outcomes. Information was extracted from the database for encounters that satisfied the following criteria.
@@ -12,6 +12,9 @@ The dataset represents 10 years (1999-2008) of diabetic clinical care at 130 US 
 
 ## Introduction
 The data contains such attributes as patient number, race, gender, age, admission type, time in hospital, medical specialty of admitting physician, number of lab test performed, HbA1c test result, diagnosis, number of medication, diabetic medications, number of outpatient, inpatient, and emergency visits in the year before the hospitalization, etc.
+
+## Dataset
+Link: https://www.kaggle.com/datasets/brandao/diabetes
 
 ## Analysis and Visualizations
 <img width="616" alt="image" src="https://user-images.githubusercontent.com/71331819/144637359-57a7a5ef-d66a-4368-b424-624e0ad1421c.png">
